@@ -9,8 +9,8 @@ Essas são as tecnologias que eu tenho praticado e estudado!
 width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 </div>
+
 ##
 
 <div>
-  
 </div>
